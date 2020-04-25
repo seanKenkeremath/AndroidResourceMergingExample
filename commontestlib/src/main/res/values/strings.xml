@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CommonLib</string>
+    <string name="base_string">Common Base String</string>
+</resources>

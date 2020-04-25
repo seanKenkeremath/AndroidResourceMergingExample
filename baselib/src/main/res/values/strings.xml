@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BaseLib</string>
+    <string name="base_string">Base String</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="string1">String1</string>
+    <string name="string2">String2</string>
+    <string name="string3">String3</string>
+
+    <string name="app_name">Resource Merging Example</string>
+    <string name="app_string">String from App</string>
+</resources>
