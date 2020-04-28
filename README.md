@@ -1,2 +1,2 @@
 # ResourceMergingExample
-Demo App to Show Inner Workings of Resource Merging
+Demonstrating issue: https://issuetracker.google.com/155107824
