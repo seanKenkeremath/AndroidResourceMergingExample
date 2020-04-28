@@ -106,6 +106,5 @@ class UITests {
         } catch (e : Resources.NotFoundException) {
             Log.d("ResourceTest","Unable to resolve string from CommonTestLib with Id: " + getHexString(realResId))
         }
-
     }
 }
